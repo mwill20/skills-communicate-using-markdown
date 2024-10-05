@@ -1,4 +1,4 @@
-<header>
+# <h1> No idea what is going on here or what I am supposed to be doing. But let's just play with it. We might learn something. <header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+## <h2/ Still no idea...</header>
 
 <!--
   <<< Author notes: Step 2 >>>
@@ -21,7 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 2: Add an image
 
-_Great job adding headers to the file :sparkles:_
+No idea how to do this so I'll just copy and paste what I was shown in the walkthrough. [Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
